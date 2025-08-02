@@ -47,6 +47,7 @@ Refund requests will **not** be accepted under the following circumstances:
 - The request is based on circumstances listed above as ineligible, including general dissatisfaction without documented proof.  
 
 All refund determinations are made at our sole discretion and are final. Refunds, if approved, will be issued to the original payment method, and processing times may vary.
+**To submit a refund request, please refer to [Section 13](#13-contact) for contact instructions.**
 
 ### 4.2 Use & Abuse  
 - Premium access is **non-transferable** and may not be shared, sold, sublicensed, or redistributed in any form.  
