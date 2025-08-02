@@ -1,5 +1,5 @@
 # Moon Music Terms of Service  
-**Last Updated:** July 20, 2025
+**Last Updated:** August 02, 2025
 
 Welcome to Moon Music! These Terms of Service ("Terms") govern your use of the Moon Music bot ("Service"), including both the free and premium versions, and form a legally binding agreement between you ("User") and the developer ("we", "us", or "our").  
 
@@ -32,19 +32,26 @@ Moon Music offers free and **premium** access. Premium features require an activ
 ## 4. Premium Terms
 
 ### 4.1 Payments & Refunds  
-- All payments are **final and non-refundable**, except for valid refund requests made **within 24 hours** of purchase.  
-- Payments are securely processed via [Patreon](https://www.patreon.com/). We do **not** store your card or billing information.  
+- All payments for premium services are **final and non-refundable**, except as explicitly stated in these Terms.  
+- A refund may be considered only if a valid request is submitted **within 24 hours** of the original purchase.  
+- All payments are processed securely via [Patreon](https://www.patreon.com/). We do **not** store payment card or billing information.  
+
+#### 4.1.1 Refund Eligibility  
+A refund will be granted only if one of the following conditions is met and **verifiable proof** is provided:  
+1. **Unauthorized Transaction** – The transaction was made without your authorization and has a direct financial impact on you.  
+2. **Failure to Provide Service** – You did not receive, or were unable to access, the premium features as advertised.  
+
+Refund requests will **not** be accepted under the following circumstances:  
+- You failed to cancel an active subscription before the renewal date.  
+- Your request is vague, lacks concrete evidence, or does not clearly establish eligibility.  
+- The request is based on circumstances listed above as ineligible, including general dissatisfaction without documented proof.  
+
+All refund determinations are made at our sole discretion and are final. Refunds, if approved, will be issued to the original payment method, and processing times may vary.
 
 ### 4.2 Use & Abuse  
-- Premium access is **non-transferable** and may not be shared, sold, or redistributed.  
-- We reserve the right to modify, add, or remove premium features at any time.
-
----
-
-## 5. Service Availability & Modifications  
-- The Service is provided **"as-is"** and **"as-available"**. We do not guarantee uninterrupted or error-free operation.  
-- Maintenance, updates, or full discontinuation may occur at any time.  
-- Major updates or pricing changes will be announced via our [Support Server](https://discord.gg/wqTgHeJ4Ku).
+- Premium access is **non-transferable** and may not be shared, sold, sublicensed, or redistributed in any form.  
+- We reserve the right to add, modify, or remove premium features at any time, with or without notice.  
+- Any abuse of premium access, including attempts to circumvent payment requirements, may result in suspension or termination without refund.  
 
 ---
 
